@@ -9,3 +9,36 @@ img {
   height:15em;
   margin: 25px;
 }
+
+.ftbox {
+  width: 15em;
+  height: 15em;
+  background-color: #ffff00;
+  padding: 5px;
+  border-color: blue;
+  border-width: 5px;
+  border-radius: 10px;
+  display: none;
+}
+
+.glyphicon {
+  font-size: 25px;
+  float: right;
+}
+
+.feat {
+  border-color: lightblue;
+  border-style: groove;
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: lightblue;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+}
+
+#mini-glyph {
+  font-size: 20px;
+
+}
