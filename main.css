@@ -5,7 +5,7 @@
   list-style-type: none;
 }
 
-img {
+.col-md-3 img {
   height:15em;
   margin: 25px;
 }
@@ -41,4 +41,8 @@ img {
 #mini-glyph {
   font-size: 20px;
 
+}
+
+.carousel-inner {
+  max-height: 40em;
 }
