@@ -44,5 +44,10 @@
 }
 
 .carousel-inner {
-  max-height: 40em;
+  max-height: 45em;
+}
+
+
+#header {
+  margin-bottom: 0px;
 }
