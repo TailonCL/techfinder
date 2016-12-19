@@ -44,7 +44,11 @@
 }
 
 .carousel-inner {
-  max-height: 45em;
+  /* max-height: 45em; */
+}
+
+.carousel-inner, img {
+  
 }
 
 
